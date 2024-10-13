@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\bin\Debug\20230806_Array.exe.config
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\bin\Debug\20230806_Array.exe
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\bin\Debug\20230806_Array.pdb
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\obj\Debug\20230806_Array.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\obj\Debug\20230806_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\obj\Debug\20230806_Array.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\obj\Debug\20230806_Array.exe
+C:\Users\sadullah.sener\source\repos\20230806_Array\20230806_Array\obj\Debug\20230806_Array.pdb
